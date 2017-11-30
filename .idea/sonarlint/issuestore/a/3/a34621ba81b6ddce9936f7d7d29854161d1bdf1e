@@ -1,0 +1,23 @@
+
+1squid:S1220""Move this file to a named package.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ä¡Åñşÿÿÿÿ8‰Áßò€,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹çÆ8‰Áßò€,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(îÀÄú8ìÓÿ·€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(ÆöÌ8ìÓÿ·€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(ÆöÌ8ìÓÿ·€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(‰ÆÎÀ8ìÓÿ·€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(ÆöÌ8‰Áßò€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(ü²¥¼8‰Áßò€,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(£œŸØ8ìÓÿ·€,
+†squid:S00116"dRename this field "Negative_Forwards_Allowed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¤Êâúÿÿÿÿ8ˆÉóà€,
+^squid:S1244"=Equality tests should not be made with floating point values.(È¿Óúøÿÿÿÿ8ìÓÿ·€,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¡Åñşÿÿÿÿ8‰Áßò€,
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¨¯Êó€,
+^squid:S1244"=Equality tests should not be made with floating point values.(È¿Óúøÿÿÿÿ8ìÓÿ·€,
+^squid:S1244"=Equality tests should not be made with floating point values.(ÃÇªòûÿÿÿÿ8ĞÚÔä€,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÀÄú8ìÓÿ·€,
+^squid:S1244"=Equality tests should not be made with floating point values.(Œùª÷øÿÿÿÿ8ìÓÿ·€,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹çÆ8ìÓÿ·€,
+Ysquid:S1244"=Equality tests should not be made with floating point values.(ÆöÌ8‰Áßò€,
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8‰Áßò€,
